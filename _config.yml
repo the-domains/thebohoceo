@@ -1,0 +1,28 @@
+name: TheBohoCeo
+favicon: null
+layout_spectrum: 0.06725761131383479
+typography_spectrum: 0.015451692743226886
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.18850036757066846
+  lightness: 0.3153579190839082
+  saturation: 0.5051234418060631
+  rhythmicContrast: 0.9939261234831065
+purpose: []
